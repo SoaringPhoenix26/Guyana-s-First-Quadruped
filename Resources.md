@@ -1,4 +1,4 @@
-#Resouces for Referncing
+# Resouces for Referncing
 
 https://www.youtube.com/watch?v=SU3fmMUz9Zg
 
