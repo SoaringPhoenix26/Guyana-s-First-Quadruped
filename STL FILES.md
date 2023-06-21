@@ -13,3 +13,7 @@ https://github.com/SoaringPhoenix26/3D-parts-and-models-for-Quadruped-Robot/blob
 https://github.com/SoaringPhoenix26/3D-parts-and-models-for-Quadruped-Robot/blob/main/servo_and_disk.stl
 
 https://github.com/SoaringPhoenix26/3D-parts-and-models-for-Quadruped-Robot/blob/main/servo_disk.stl
+
+https://github.com/SoaringPhoenix26/3D-parts-and-models-for-Quadruped-Robot/blob/main/shoulder_1.stl
+
+https://github.com/SoaringPhoenix26/3D-parts-and-models-for-Quadruped-Robot/blob/main/shoulder_2.stl
