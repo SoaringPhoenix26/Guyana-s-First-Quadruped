@@ -1,2 +1,2 @@
 # Guyana-s-First-Quadruped
-Basically the first Quaruped Robot to built by UGRC
+The First Quadruped Robot built from scratch by the University of Guyana Robotics Club 
